@@ -13,6 +13,7 @@ random.seed(123)
 os.environ['CUDA_VISIBLE_DEVICES'] = '8,9'
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+
 # define the loss function
 def loss(start_logits, end_logits, start_index, end_index):
     total_loss = 0
