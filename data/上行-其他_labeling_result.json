@@ -1,0 +1,1487 @@
+[
+    {
+        "text": "2020年6月份对账单客户名称:宁波雾芯信息科技有限公司供方名称:深圳麦克韦尔科技有限公司联系人:联系人:刘洋电话/传真:电话/传真号码:18033075172物料名称数量单价总金额(RMB)TF02-T29烟弹109513087.683229940.8P52A烟弹14038407.8511020144TF5001A烟弹719122139348586P12B一次性烟3880013.4519920TF3901A烟弹170800142391200P52A烟弹13550015.72127350TF5001A烟弹1000026260000TF3901A烟弹1398328391524B1806-TC电池15003248000B1806-TC电池13536.54927.5B1806-TC电池1740040696000B1806-TC电池1666544.5741592.5B1806-TC 电池套装4000047.21888000P52A电池2605013000B1806-TC 电池套装200051.7103400P52A电池10005555000B1806-TC 电池套装25914055.214304528B1806-TC电池套装21668059.712935796P52A套装3720065.72444040P52A套装832070.7588224TF3901A套装盈2980104309920TF5001A套装心本7000138966000合计(截止到2020/6/30出货)144387092.8购方盖章:供方盖章核对人签名:核对人签名",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "TF02-T29烟弹",
+                        "start_offset": 96,
+                        "end_offset": 106,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A烟弹",
+                        "start_offset": 127,
+                        "end_offset": 133,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF5001A烟弹",
+                        "start_offset": 152,
+                        "end_offset": 161,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P12B一次性烟",
+                        "start_offset": 176,
+                        "end_offset": 184,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF3901A烟弹",
+                        "start_offset": 199,
+                        "end_offset": 208,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A烟弹",
+                        "start_offset": 223,
+                        "end_offset": 229,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF5001A烟弹",
+                        "start_offset": 246,
+                        "end_offset": 255,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF3901A烟弹",
+                        "start_offset": 268,
+                        "end_offset": 277,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池",
+                        "start_offset": 290,
+                        "end_offset": 300,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池",
+                        "start_offset": 311,
+                        "end_offset": 321,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池",
+                        "start_offset": 334,
+                        "end_offset": 344,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池",
+                        "start_offset": 357,
+                        "end_offset": 367,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC 电池套装",
+                        "start_offset": 384,
+                        "end_offset": 397,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A电池",
+                        "start_offset": 413,
+                        "end_offset": 419,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC 电池套装",
+                        "start_offset": 429,
+                        "end_offset": 442,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A电池",
+                        "start_offset": 456,
+                        "end_offset": 462,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC 电池套装",
+                        "start_offset": 473,
+                        "end_offset": 486,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池套装",
+                        "start_offset": 504,
+                        "end_offset": 516,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A套装",
+                        "start_offset": 534,
+                        "end_offset": 540,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A套装",
+                        "start_offset": 556,
+                        "end_offset": 562,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF3901A套装盈",
+                        "start_offset": 576,
+                        "end_offset": 586,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF5001A套装心本",
+                        "start_offset": 599,
+                        "end_offset": 610,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "7.6",
+                        "start_offset": 114,
+                        "end_offset": 117,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "7.85",
+                        "start_offset": 140,
+                        "end_offset": 144,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "13",
+                        "start_offset": 167,
+                        "end_offset": 169,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "13.4",
+                        "start_offset": 189,
+                        "end_offset": 193,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "14",
+                        "start_offset": 214,
+                        "end_offset": 216,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "15.7",
+                        "start_offset": 235,
+                        "end_offset": 239,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "26",
+                        "start_offset": 260,
+                        "end_offset": 262,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "28",
+                        "start_offset": 282,
+                        "end_offset": 284,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "32",
+                        "start_offset": 304,
+                        "end_offset": 306,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "36.5",
+                        "start_offset": 324,
+                        "end_offset": 328,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "40",
+                        "start_offset": 349,
+                        "end_offset": 351,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "44.5",
+                        "start_offset": 372,
+                        "end_offset": 376,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "47.2",
+                        "start_offset": 402,
+                        "end_offset": 406,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "50",
+                        "start_offset": 422,
+                        "end_offset": 424,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "51.7",
+                        "start_offset": 446,
+                        "end_offset": 450,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "55",
+                        "start_offset": 466,
+                        "end_offset": 468,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "55.2",
+                        "start_offset": 492,
+                        "end_offset": 496,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "59.7",
+                        "start_offset": 522,
+                        "end_offset": 526,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "65.7",
+                        "start_offset": 545,
+                        "end_offset": 549,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "70.7",
+                        "start_offset": 566,
+                        "end_offset": 570,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "104",
+                        "start_offset": 590,
+                        "end_offset": 593,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "138",
+                        "start_offset": 614,
+                        "end_offset": 617,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "宁波雾芯信息科技有限公司",
+                        "start_offset": 16,
+                        "end_offset": 28,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "深圳麦克韦尔科技有限公司",
+                        "start_offset": 33,
+                        "end_offset": 45,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同金额",
+                "extract_info": [
+                    {
+                        "field_value": "144387092.8",
+                        "start_offset": 641,
+                        "end_offset": 652,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "币种",
+                "extract_info": [
+                    {
+                        "field_value": "RMB",
+                        "start_offset": 92,
+                        "end_offset": 95,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "货物验收单合同号JPLL-2020X00201收货单位北京佳品优先电子商务有限公司验货地点北京货物名称产地单位数量生菜南京公斤8 万木耳菜南京公斤4 万芦笋上海公斤1 万金针菇南京公斤2.5 万菜秧南京公斤0.5 万用户方人员签字:日期: 2020年 8 月23日备注: 货物验收单需用户方盖章。以上货物如与合同有差异,请在备注里说明。",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "生菜",
+                        "start_offset": 57,
+                        "end_offset": 59,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "木耳菜",
+                        "start_offset": 66,
+                        "end_offset": 69,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "芦笋",
+                        "start_offset": 76,
+                        "end_offset": 78,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "金针菇",
+                        "start_offset": 85,
+                        "end_offset": 88,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "菜秧",
+                        "start_offset": 97,
+                        "end_offset": 99,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同编号",
+                "extract_info": [
+                    {
+                        "field_value": "JPLL-2020X00201",
+                        "start_offset": 8,
+                        "end_offset": 23,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "北京佳品优先电子商务有限公司",
+                        "start_offset": 27,
+                        "end_offset": 41,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同签署日期",
+                "extract_info": [
+                    {
+                        "field_value": " 2020年 8 月23日",
+                        "start_offset": 119,
+                        "end_offset": 132,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "AP 付款请求书杭州金鱼电器营销有限公司:贵公司截止到 2020 年 6 月 30日,AP 应收帐款余额为232,901,970.63 元,超 60 天支付的逾期款0元,逾期最长天数为0 天7月05日贵公司支付货款0 元,7月 15日支付货款12,969,488.14 元,7月25 支付货款 69,919,453.13元,7月货款合计 82,888,941.27 元谢谢合作!备注:样机款合计:0态上网设行化州分]四批蛾清单祥见附件松下家电(中国)有限公司杭州分公司有家家(2)司司:2020 年 07月03日付款请求书确认PC 杭州分公司GES 确认务财有用限器公营金章司销鱼",
+        "data": [
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "杭州金鱼电器营销有限公司:",
+                        "start_offset": 8,
+                        "end_offset": 21,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "松下家电(中国)有限公司杭州分公司",
+                        "start_offset": 217,
+                        "end_offset": 234,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同签署日期",
+                "extract_info": [
+                    {
+                        "field_value": "2020 年 07月03日",
+                        "start_offset": 243,
+                        "end_offset": 256,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同金额",
+                "extract_info": [
+                    {
+                        "field_value": "232,901,970.63",
+                        "start_offset": 53,
+                        "end_offset": 67,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同款项交付日期",
+                "extract_info": [
+                    {
+                        "field_value": "7月05日",
+                        "start_offset": 95,
+                        "end_offset": 100,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "7月 15日",
+                        "start_offset": 111,
+                        "end_offset": 117,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "7月25",
+                        "start_offset": 137,
+                        "end_offset": 141,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "币种",
+                "extract_info": [
+                    {
+                        "field_value": "元",
+                        "start_offset": 68,
+                        "end_offset": 69,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "S)OX1)1091深圳市阿拉丁电子科技发展有限公司对账单甲方:宁波雾芯信息科技有限公司乙方:深圳市阿拉丁电子科技发展有限公司联系人:余仡宸联系人:熊长琦电话:13028511229电 话:15180548203序号出货日期产品名称单位数量单价金额(人民币)备注16月4日悦刻雾化设备nano 劲爽薄荷50mg套1000012.412400026月4日悦刻雾化设备nano 冰镇西瓜30mg套1000012.412400036月4日悦刻雾化设备nano 冰摇覆盆子30mg套500012.663000荧光版46月8日悦刻雾化设备nano 绿豆冰棒30mg套1480012.418352056月8日悦刻雾化设备nano 沁心冰柠檬30mg套500012.663000荧光版66月8日悦刻雾化设备nano 杏桃利口酒30mg套500012.663000荧光版76月10日悦刻雾化设备nano 冰镇西瓜30mg套2660012.432984086月11日悦刻雾化设备nano 劲爽薄荷50mg套1412012.417508896月11日悦刻雾化设备nano 绿豆冰棒30mg套1260012.4156240106月12日悦刻雾化设备nano 劲爽薄荷50mg套580012.471920116月12日悦刻雾化设备nano 绿豆冰棒30mg套900012.4111600126月12日悦刻雾化设备nano 冰镇西瓜3Omg套60012.47440136月15日悦刻雾化设备nano 劲爽薄荷50mg套300012.437200146月15日悦刻雾化设备nano 绿豆冰棒30mg套600012.474400156月15日小悦刻白色版 劲爽薄荷50mg套540012.668040166月15日小悦刻白色版 冻柠檬茶30mg套512012.664512176月15日小悦刻白色版 经典TOB 50mg套358112.645120.6186月15日小悦刻白色版 醉爱蓝莓30mg套520012.665520196月15日小悦刻白色版 绿豆冰棒30mg套440012.655440206月15日小悦刻白色版 冰镇西瓜30mg套420012.652920216月15日小悦刻白色版 可乐沙冰30mg套480012.660480226月15日小悦刻白色版 桃气乌龙30mg套580012.673080236月15日小悦刻白色版 老冰棍儿30mg套320012.640320246月16日悦刻雾化设备nano 劲爽薄荷50mg套680012.484320256月16日悦刻雾化设备nano 绿豆冰棒30mg套440012.454560266月17日悦刻雾化设备nano 劲爽薄荷50mg套13912.41723.6276月17日悦刻雾化设备nano 绿豆冰棒30mg套113112.414024.4286月17日悦刻雾化设备nano 冰镇西瓜30mg套19112.42368.4296月21日悦刻雾化设备nano 冰镇西瓜30mg套1012.43124.3外壳镭雕306月24日悦刻雾化设备nano 冰镇西瓜30mg套1140012.43141702外壳镭周316月24日悦刻雾化设备nano 可乐冰味30mg套1996012.43248102.8外壳钻周326月24日悦刻雾化设备nano 冰摇覆盆子30mg套392012.649392荧光版336月29日小悦刻雾化设备nano 桃气乌龙30mg套1000012.435124350小盒贴二维码346月29日小悦刻雾化设备nano 老冰棍儿30mg套1000012.435124350小盒贴二维码356月29日悦刻雾化设备nano 绿豆冰棒30mg套2000012.5250000外壳镭雕小盒贴二维码合计:¥3,204,698.105月份货款¥ 1,736,000.00预付款¥ 1,984,000.00应付尾款¥2,956,698.10大写:贰佰玖拾伍万陆仟陆佰玖拾捌元壹角乙方收款资料开户行:中国建设银行股份有限公司深圳新城支行用户名:深圳市阿拉丁电子科技发展有限公司账号:44250100012000001088甲方签字(盖章):z万签字(盖章)、网士将日期:2020/7/6日期:202。.7",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "悦刻雾化设备nano 劲爽薄荷50mg",
+                        "start_offset": 136,
+                        "end_offset": 155,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 冰镇西瓜30mg",
+                        "start_offset": 176,
+                        "end_offset": 195,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 冰摇覆盆子30mg",
+                        "start_offset": 216,
+                        "end_offset": 236,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 绿豆冰棒30mg",
+                        "start_offset": 258,
+                        "end_offset": 277,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 沁心冰柠檬30mg",
+                        "start_offset": 298,
+                        "end_offset": 318,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 杏桃利口酒30mg",
+                        "start_offset": 340,
+                        "end_offset": 360,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 冰镇西瓜30mg",
+                        "start_offset": 383,
+                        "end_offset": 402,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 劲爽薄荷50mg",
+                        "start_offset": 424,
+                        "end_offset": 443,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 绿豆冰棒30mg",
+                        "start_offset": 465,
+                        "end_offset": 484,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 劲爽薄荷50mg",
+                        "start_offset": 507,
+                        "end_offset": 526,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 绿豆冰棒30mg",
+                        "start_offset": 547,
+                        "end_offset": 566,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 冰镇西瓜3Omg",
+                        "start_offset": 588,
+                        "end_offset": 607,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 劲爽薄荷50mg",
+                        "start_offset": 626,
+                        "end_offset": 645,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 绿豆冰棒30mg",
+                        "start_offset": 666,
+                        "end_offset": 685,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 劲爽薄荷50mg",
+                        "start_offset": 706,
+                        "end_offset": 721,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 冻柠檬茶30mg",
+                        "start_offset": 742,
+                        "end_offset": 757,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 经典TOB 50mg",
+                        "start_offset": 778,
+                        "end_offset": 795,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 醉爱蓝莓30mg",
+                        "start_offset": 818,
+                        "end_offset": 833,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 绿豆冰棒30mg",
+                        "start_offset": 854,
+                        "end_offset": 869,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 冰镇西瓜30mg",
+                        "start_offset": 890,
+                        "end_offset": 905,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 可乐沙冰30mg",
+                        "start_offset": 926,
+                        "end_offset": 941,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 桃气乌龙30mg",
+                        "start_offset": 962,
+                        "end_offset": 977,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻白色版 老冰棍儿30mg",
+                        "start_offset": 998,
+                        "end_offset": 1013,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 劲爽薄荷50mg",
+                        "start_offset": 1034,
+                        "end_offset": 1053,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 绿豆冰棒30mg",
+                        "start_offset": 1074,
+                        "end_offset": 1093,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 劲爽薄荷50mg",
+                        "start_offset": 1114,
+                        "end_offset": 1133,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 绿豆冰棒30mg",
+                        "start_offset": 1154,
+                        "end_offset": 1173,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 冰镇西瓜30mg",
+                        "start_offset": 1196,
+                        "end_offset": 1215,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 冰镇西瓜30mg",
+                        "start_offset": 1236,
+                        "end_offset": 1255,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 冰镇西瓜30mg",
+                        "start_offset": 1279,
+                        "end_offset": 1298,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 可乐冰味30mg",
+                        "start_offset": 1326,
+                        "end_offset": 1345,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 冰摇覆盆子30mg",
+                        "start_offset": 1375,
+                        "end_offset": 1395,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻雾化设备nano 桃气乌龙30mg",
+                        "start_offset": 1419,
+                        "end_offset": 1439,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "小悦刻雾化设备nano 老冰棍儿30mg",
+                        "start_offset": 1470,
+                        "end_offset": 1490,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "悦刻雾化设备nano 绿豆冰棒30mg",
+                        "start_offset": 1521,
+                        "end_offset": 1540,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 161,
+                        "end_offset": 165,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 201,
+                        "end_offset": 205,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 241,
+                        "end_offset": 245,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 283,
+                        "end_offset": 287,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 323,
+                        "end_offset": 327,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 365,
+                        "end_offset": 369,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 408,
+                        "end_offset": 412,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 449,
+                        "end_offset": 453,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 490,
+                        "end_offset": 494,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 531,
+                        "end_offset": 535,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 571,
+                        "end_offset": 575,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 611,
+                        "end_offset": 615,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 650,
+                        "end_offset": 654,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 690,
+                        "end_offset": 694,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 726,
+                        "end_offset": 730,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 762,
+                        "end_offset": 766,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 800,
+                        "end_offset": 804,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 838,
+                        "end_offset": 842,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 874,
+                        "end_offset": 878,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 910,
+                        "end_offset": 914,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 946,
+                        "end_offset": 950,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 982,
+                        "end_offset": 986,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 1018,
+                        "end_offset": 1022,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 1058,
+                        "end_offset": 1062,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 1098,
+                        "end_offset": 1102,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 1137,
+                        "end_offset": 1141,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 1178,
+                        "end_offset": 1182,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.4",
+                        "start_offset": 1219,
+                        "end_offset": 1223,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.43",
+                        "start_offset": 1258,
+                        "end_offset": 1263,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.43",
+                        "start_offset": 1304,
+                        "end_offset": 1309,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.43",
+                        "start_offset": 1351,
+                        "end_offset": 1356,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.6",
+                        "start_offset": 1400,
+                        "end_offset": 1404,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.435",
+                        "start_offset": 1445,
+                        "end_offset": 1451,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.435",
+                        "start_offset": 1496,
+                        "end_offset": 1502,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "12.5",
+                        "start_offset": 1546,
+                        "end_offset": 1550,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同编号",
+                "extract_info": [
+                    {
+                        "field_value": "S)OX1)1091",
+                        "start_offset": 0,
+                        "end_offset": 10,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "宁波雾芯信息科技有限公司",
+                        "start_offset": 32,
+                        "end_offset": 44,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "深圳市阿拉丁电子科技发展有限公司",
+                        "start_offset": 47,
+                        "end_offset": 63,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同签署日期",
+                "extract_info": [
+                    {
+                        "field_value": "202。.7",
+                        "start_offset": 1760,
+                        "end_offset": 1766,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同金额",
+                "extract_info": [
+                    {
+                        "field_value": "2,956,698.10",
+                        "start_offset": 1623,
+                        "end_offset": 1635,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "币种",
+                "extract_info": [
+                    {
+                        "field_value": "人民币",
+                        "start_offset": 125,
+                        "end_offset": 128,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "元",
+                        "start_offset": 1651,
+                        "end_offset": 1652,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "2020年6月份对账单客户名称:宁波雾芯信息科技有限公司供方名称:深圳麦克韦尔科技有限公司联系人:联系人:刘洋电话/传真:电话/传真号码:18033075172物料名称数量单价总金额(RMB)TF02-T29烟弹109513087.683229940.8P52A烟弹14038407.8511020144TF5001A烟弹719122139348586P12B一次性烟3880013.4519920TF3901A烟弹170800142391200P52A烟弹13550015.72127350TF5001A烟弹1000026260000TF3901A烟弹1398328391524B1806-TC电池15003248000B1806-TC电池13536.54927.5B1806-TC电池1740040696000B1806-TC电池1666544.5741592.5B1806-TC 电池套装4000047.21888000P52A电池2605013000B1806-TC 电池套装200051.7103400P52A电池10005555000B1806-TC 电池套装25914055.214304528B1806-TC电池套装21668059.712935796P52A套装3720065.72444040P52A套装832070.7588224TF3901A套装盈2980104309920TF5001A套装心本7000138966000合计(截止到2020/6/30出货)144387092.8购方盖章:供方盖章核对人签名:核对人签名",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "TF02-T29烟弹",
+                        "start_offset": 96,
+                        "end_offset": 106,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A烟弹",
+                        "start_offset": 127,
+                        "end_offset": 133,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF5001A烟弹",
+                        "start_offset": 152,
+                        "end_offset": 161,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P12B一次性烟",
+                        "start_offset": 176,
+                        "end_offset": 184,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF3901A烟弹",
+                        "start_offset": 199,
+                        "end_offset": 208,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A烟弹",
+                        "start_offset": 223,
+                        "end_offset": 229,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF5001A烟弹",
+                        "start_offset": 246,
+                        "end_offset": 255,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF3901A烟弹",
+                        "start_offset": 268,
+                        "end_offset": 277,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池",
+                        "start_offset": 290,
+                        "end_offset": 300,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池",
+                        "start_offset": 311,
+                        "end_offset": 321,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池",
+                        "start_offset": 334,
+                        "end_offset": 344,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池",
+                        "start_offset": 357,
+                        "end_offset": 367,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC 电池套装",
+                        "start_offset": 384,
+                        "end_offset": 397,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A电池",
+                        "start_offset": 413,
+                        "end_offset": 419,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC 电池套装",
+                        "start_offset": 429,
+                        "end_offset": 442,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A电池",
+                        "start_offset": 456,
+                        "end_offset": 462,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC 电池套装",
+                        "start_offset": 473,
+                        "end_offset": 486,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "B1806-TC电池套装",
+                        "start_offset": 504,
+                        "end_offset": 516,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A套装",
+                        "start_offset": 534,
+                        "end_offset": 540,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "P52A套装",
+                        "start_offset": 556,
+                        "end_offset": 562,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF3901A套装盈",
+                        "start_offset": 576,
+                        "end_offset": 586,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "TF5001A套装心本",
+                        "start_offset": 599,
+                        "end_offset": 610,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "7.6",
+                        "start_offset": 114,
+                        "end_offset": 117,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "7.85",
+                        "start_offset": 140,
+                        "end_offset": 144,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "13",
+                        "start_offset": 167,
+                        "end_offset": 169,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "13.4",
+                        "start_offset": 189,
+                        "end_offset": 193,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "14",
+                        "start_offset": 214,
+                        "end_offset": 216,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "15.7",
+                        "start_offset": 235,
+                        "end_offset": 239,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "26",
+                        "start_offset": 260,
+                        "end_offset": 262,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "28",
+                        "start_offset": 282,
+                        "end_offset": 284,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "32",
+                        "start_offset": 304,
+                        "end_offset": 306,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "36.5",
+                        "start_offset": 324,
+                        "end_offset": 328,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "40",
+                        "start_offset": 349,
+                        "end_offset": 351,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "44.5",
+                        "start_offset": 372,
+                        "end_offset": 376,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "47.2",
+                        "start_offset": 402,
+                        "end_offset": 406,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "50",
+                        "start_offset": 422,
+                        "end_offset": 424,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "51.7",
+                        "start_offset": 446,
+                        "end_offset": 450,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "55",
+                        "start_offset": 466,
+                        "end_offset": 468,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "55.2",
+                        "start_offset": 492,
+                        "end_offset": 496,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "59.7",
+                        "start_offset": 522,
+                        "end_offset": 526,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "65.7",
+                        "start_offset": 545,
+                        "end_offset": 549,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "70.7",
+                        "start_offset": 566,
+                        "end_offset": 570,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "104",
+                        "start_offset": 590,
+                        "end_offset": 593,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "138",
+                        "start_offset": 614,
+                        "end_offset": 617,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "宁波雾芯信息科技有限公司",
+                        "start_offset": 16,
+                        "end_offset": 28,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "深圳麦克韦尔科技有限公司",
+                        "start_offset": 33,
+                        "end_offset": 45,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同金额",
+                "extract_info": [
+                    {
+                        "field_value": "144387092.8",
+                        "start_offset": 641,
+                        "end_offset": 652,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "币种",
+                "extract_info": [
+                    {
+                        "field_value": "RMB",
+                        "start_offset": 92,
+                        "end_offset": 95,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "上海虎韵模型科技有限公司报价单版本号:HW-DW-Q0014.01甲方公司上海维誉自动化设备有限公司乙方公司:上海虎韵模型科技有限公司联系人:许允真联系 人:戚满意电话:13524502286电话:15221114198报价日期:2020年3月23日报价有效期:10天报价单号:HW200323Q001序号零件名图片3D尺寸(单位mm)报价产品订购XYZ材料单价数量单位:元备注WY-A19016卡板类ABS44887件39000.00合计总价:含税价人名币:叁万玖仟圆整39000.00含税13%备注条款:一.交货期:订单下发后15个工作日动理彩二.付款条款:1:每个月5号之前与贵公司对上个月项目款项,遇节假日延期,贵公司收到发票后30个工作日付款。家对一致三.包装运输:乙方负责合适的包装,并承担到贵公司的运输费用:王赓」五.技术条款:严格按照甲方图纸和制作要求制作,如有需要变更的,需征得甲方同意。产生的费用,乙方根据实际情况书面报价,另行收费。六.售后条款:产品交付后若因质量问题造成的产品返修的,乙方及时安排返修,并承担费用;若甲方原因需要修改所七.订单确认后,如果因甲方原因需要停止加工的,甲方需要书面通知乙方,因项目停止已经产生的费用,由甲方承担2八.本报价单可以代合同,双方签字或盖章后生效,传真件具有同等法律效应甲方乙方:签字盖章:签字盖章日期:500人日期",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "WY-A19016卡板",
+                        "start_offset": 189,
+                        "end_offset": 200,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "44",
+                        "start_offset": 204,
+                        "end_offset": 206,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同编号",
+                "extract_info": [
+                    {
+                        "field_value": "HW200323Q001",
+                        "start_offset": 139,
+                        "end_offset": 151,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海维誉自动化设备有限公司",
+                        "start_offset": 37,
+                        "end_offset": 50,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "上海虎韵模型科技有限公司",
+                        "start_offset": 55,
+                        "end_offset": 67,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同签署日期",
+                "extract_info": [
+                    {
+                        "field_value": "2020年3月23日",
+                        "start_offset": 115,
+                        "end_offset": 125,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同金额",
+                "extract_info": [
+                    {
+                        "field_value": "39000.00",
+                        "start_offset": 236,
+                        "end_offset": 244,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同账期",
+                "extract_info": [
+                    {
+                        "field_value": "到发票后30个工作日付款",
+                        "start_offset": 314,
+                        "end_offset": 326,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "币种",
+                "extract_info": [
+                    {
+                        "field_value": "元",
+                        "start_offset": 186,
+                        "end_offset": 187,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "延期付款证明甲方:杭州藕坤贸易有限公司乙方:杭州然然数码通讯设备有限公司甲乙双方于 2020年4月8日签订合同金额为36927730元,时间为2020年4月8日,乙方由于疫情期间资金周转原因和甲方友好商议,甲方同意乙方延期支付,支付时间为 2020年9月30日前支付。特此说明!甲方杭州藕坤贸易有限公司乙方:杭州然然数码通讯设备有限公司△同专日期2020年4月28上日期:2020年4 月 28延期付款证明甲方:杭州藕坤贸易有限公司乙方:杭州然然数码通讯设备有限公司甲乙双方于 2020年5 月2 日签订合同金额为 28667500元,时间为 2020 年5 月 2 日,乙方由于疫情期间资金周转原因和甲方友好商议,甲方同意乙方延期支付,支付时间为 2020年11月10日前支付。特此说明!甲方:杭州藕坤贸易有限公司乙方:杭州然然数码通讯设备有限公司日期:2020年5月25日日期:2020年5",
+        "data": [
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "杭州然然数码通讯设备有限公司",
+                        "start_offset": 22,
+                        "end_offset": 36,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "杭州然然数码通讯设备有限公司",
+                        "start_offset": 154,
+                        "end_offset": 168,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "杭州藕坤贸易有限公司",
+                        "start_offset": 9,
+                        "end_offset": 19,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "杭州藕坤贸易有限公司",
+                        "start_offset": 141,
+                        "end_offset": 151,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同签署日期",
+                "extract_info": [
+                    {
+                        "field_value": "2020年4 月 28",
+                        "start_offset": 186,
+                        "end_offset": 197,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同金额",
+                "extract_info": [
+                    {
+                        "field_value": "为369277",
+                        "start_offset": 57,
+                        "end_offset": 64,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同款项交付日期",
+                "extract_info": [
+                    {
+                        "field_value": "为 2020年9月30日",
+                        "start_offset": 118,
+                        "end_offset": 130,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

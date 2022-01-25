@@ -1,0 +1,1183 @@
+[
+    {
+        "text": "2010r0QR-0269上海子元汽车零部件有限公司供货商:苏州市群友精密机械有限公司2020年供应商供货价格编号:7UT-Do供货商编号:02.296制表日期:部门:采购交货地点:新华特序号系统代码零件号零件名称使用车型单位下降比率本年度单价备注11.03.03.0251875 171手球排档P按键HS5电子换挡手柄PCS1.0821.03.03.0263875 191手球排档P光导块HS5电子换挡手柄PCS0.1731.03.03.0264875 194手球排档D光导块HS5电子换挡手柄PCS0.1741.03.03.0265875 195手球排档M光导块HS5电子换挡手柄PCS0.1751.03.03.0266875 267手球排档标牌分总成HS5电子换挡手柄PCS2.863.01.57.02.3050U 429B SUV中央通道USB模块B/SUV中央通道PCS2.5说明:1.价格为不含税价,且只供供货商准备原材料用2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续。3.货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码。4.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货。5.有效期自2020年1月 1 日至2020年 12 月_31日止。6.本价格单执行双方签订的《国产零部件和生产材料采购条款/合同》之条文。上海子元汽车零部件有限公司苏州市群友精密机械有限公司采购方代表:供货商代表授权签章:供货商签章:日期:日期:J守以5小",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.03.03.0251",
+                        "start_offset": 125,
+                        "end_offset": 137,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.03.03.0263",
+                        "start_offset": 168,
+                        "end_offset": 180,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.03.03.0264",
+                        "start_offset": 212,
+                        "end_offset": 224,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.03.03.0265",
+                        "start_offset": 256,
+                        "end_offset": 268,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.03.03.0266",
+                        "start_offset": 300,
+                        "end_offset": 312,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "3.01.57.02.30",
+                        "start_offset": 344,
+                        "end_offset": 357,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "1.08",
+                        "start_offset": 163,
+                        "end_offset": 167,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "0.17",
+                        "start_offset": 207,
+                        "end_offset": 211,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "0.17",
+                        "start_offset": 251,
+                        "end_offset": 255,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "0.17",
+                        "start_offset": 295,
+                        "end_offset": 299,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "2.8",
+                        "start_offset": 340,
+                        "end_offset": 343,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "2.5",
+                        "start_offset": 390,
+                        "end_offset": 393,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同编号",
+                "extract_info": [
+                    {
+                        "field_value": "7UT-Do",
+                        "start_offset": 58,
+                        "end_offset": 64,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 13,
+                        "end_offset": 26,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 626,
+                        "end_offset": 639,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "苏州市群友精密机械有限公司",
+                        "start_offset": 30,
+                        "end_offset": 43,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "苏州市群友精密机械有限公司",
+                        "start_offset": 639,
+                        "end_offset": 652,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "上海子元汽车零部件有限公司30201930QR-0269供货供货商编号:09.034商:上海景田工程塑胶有限公司2020 年供应商供货价格编号部门:采购部制表日期:交货地点:子元仓库序号系统代码零件号零件名称使用车型单位下降比率本年度备注11.01.05.0012PA6/B121/X15(B101K)单价(元)PA6+GK15/9B9Mode1l-K(MP12/MP15)中间扶手kg21.390021.01.05.0047PA6/JTO6ERU-001箱侧饰板罩盖)PA6/JT06ERU-001(FabiaNF行李FabiaNF行李箱侧饰板kg19.349731.01.06.0019PA66+GF30/JT66G30UF手排型芯件)PA66+GF30/JT66G30U(NewBoraNNowBoraNF手排kg20.642841.01.06.0020PA66 A3Z HP UV(JT66 ERU)k21kg25.795051.01.06.0038PA66GF50JT66G50UDY A-SH中扶手kg20.4402说明:1. 价格为不含税价,且只供供货商准备原材料用。2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续。3. 货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码。4.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货。5.有效期自 2020年01月_01日至2020 年12月 31日止。6.本价格单执行双方签订的《国产零部件和生产材料采购条款》之条文。上海子元汽车零部件有限公司上海景田工程塑胶有限公司采购方代表:供货商代表会授权签章:供货商签章日期:日期:次2",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.01.05.0012",
+                        "start_offset": 120,
+                        "end_offset": 132,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.05.0047",
+                        "start_offset": 201,
+                        "end_offset": 213,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.06.0019",
+                        "start_offset": 283,
+                        "end_offset": 295,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.06.0020",
+                        "start_offset": 368,
+                        "end_offset": 380,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.06.0038",
+                        "start_offset": 417,
+                        "end_offset": 429,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "21.3900",
+                        "start_offset": 193,
+                        "end_offset": 200,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "19.3497",
+                        "start_offset": 275,
+                        "end_offset": 282,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "20.6428",
+                        "start_offset": 360,
+                        "end_offset": 367,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "25.7950",
+                        "start_offset": 409,
+                        "end_offset": 416,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "20.4402",
+                        "start_offset": 457,
+                        "end_offset": 464,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 0,
+                        "end_offset": 13,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 698,
+                        "end_offset": 711,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "上海景田工程塑胶有限公司",
+                        "start_offset": 44,
+                        "end_offset": 56,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海景田工程塑胶有限公司",
+                        "start_offset": 711,
+                        "end_offset": 723,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同签署日期",
+                "extract_info": [
+                    {
+                        "field_value": "次2",
+                        "start_offset": 751,
+                        "end_offset": 753,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "币种",
+                "extract_info": [
+                    {
+                        "field_value": "元",
+                        "start_offset": 154,
+                        "end_offset": 155,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "一QR-0269上海子元汽车零部件有限公司2020年供应商供货价格供货商:倍柔(上海)贸易有限公司供货商编号:01.346制表日期:2019年1月1日部门:采购中心送货地点:上海嘉定序号系统代码零件号零件名称使用车型单位下降比率2020年未税单价备注11.06.02.0026PUR环(14*9.8*6mm)Golf Sportsvan/Magotan B8L扶手件2%1.037221.06.02.0030PUR环(14.2*9.6*5.5mm)Audi Q5 NF前扶手件2%1.018731.06.02.0020BASF PUR环(35*27.4*5mm)Audi A3 W66/W77(PA)件2%2.016841.06.02.0021BASF PUR环(13.5*9.9*5mm)Audi A3 W66/W77(PA)件2%1.018051.06.02.0027BASF PUR环A-MAIN中间扶手件2%1.047861.06.02.003183G 864 283-09BASF PUR环(35*27.4*5mm)件2%2.016871.06.02.003283G 864 283-16BASF PUR环(13.5*9.9*5mm)件2%1.0180说明:1.价格为不含税价,且只供供货商准备原材料用。2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续3.货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码。4.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货。5.有效期自_2020年1月1日至2020年12月31日止。6.本价格单执行双方签订的《国产零部件和生产材料采购条款》之条文。上海子元汽车零部件有限公司2倍柔(上海)贸易有限公采购方代表:供货商代表:授权签章:供货商签章:日期:日期:202",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.06.02.0026",
+                        "start_offset": 126,
+                        "end_offset": 138,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0030",
+                        "start_offset": 192,
+                        "end_offset": 204,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0020",
+                        "start_offset": 247,
+                        "end_offset": 259,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0021",
+                        "start_offset": 310,
+                        "end_offset": 322,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0027",
+                        "start_offset": 374,
+                        "end_offset": 386,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0031",
+                        "start_offset": 415,
+                        "end_offset": 427,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0032",
+                        "start_offset": 473,
+                        "end_offset": 485,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "1.0372",
+                        "start_offset": 185,
+                        "end_offset": 191,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.0187",
+                        "start_offset": 240,
+                        "end_offset": 246,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "2.0168",
+                        "start_offset": 303,
+                        "end_offset": 309,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.0180",
+                        "start_offset": 367,
+                        "end_offset": 373,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.0478",
+                        "start_offset": 408,
+                        "end_offset": 414,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "2.0168",
+                        "start_offset": 466,
+                        "end_offset": 472,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.0180",
+                        "start_offset": 525,
+                        "end_offset": 531,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 8,
+                        "end_offset": 21,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 757,
+                        "end_offset": 770,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "倍柔(上海)贸易有限公司",
+                        "start_offset": 37,
+                        "end_offset": 49,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "倍柔(上海)贸易有限公",
+                        "start_offset": 771,
+                        "end_offset": 782,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同签署日期",
+                "extract_info": [
+                    {
+                        "field_value": "202",
+                        "start_offset": 811,
+                        "end_offset": 814,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "上海银行资产池业务-现>912102QR-0269上海子元汽车零部件有限公司2020供货商:吉林省通用机械(集团)有限责任公司年供应商供货价格)J编号:供货商编号:04.031制表日期:2020-04-27部门:采购中心资产池业交货地点:嘉安公路3555号序号系统代码零件号零件名称使用车型单位下降比率本年度单价备注11.02.06.00453CC 805 615拖钩B-SUV工具盒件8.940021.02.06.00415NG 805 615拖钩TiguanNF工具盒件8.0000务-现金说明:1. 价格为不含税价,且只供供货商准备原材料用。2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续。上3.货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码5.有效期自2020年01月01日至2020年12月31日止。4.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货。6.本价格单执行双方签订的《国产零部件和生产材料采购条款》之条文。渗银行资产汇上海子元汽车零部件有限公司吉林省通用机械(集团)有限责住公司采购方代表:授权签章:务-现金供货商代表供货商签章:每银行资产池业号-现金期:银行资产池业务-现金日期:资产池业务-现金上海银行资产池业",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.02.06.0045",
+                        "start_offset": 159,
+                        "end_offset": 171,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.02.06.0041",
+                        "start_offset": 200,
+                        "end_offset": 212,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "8.9400",
+                        "start_offset": 193,
+                        "end_offset": 199,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "8.0000",
+                        "start_offset": 237,
+                        "end_offset": 243,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同编号",
+                "extract_info": [
+                    {
+                        "field_value": ")J",
+                        "start_offset": 71,
+                        "end_offset": 73,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 25,
+                        "end_offset": 38,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 482,
+                        "end_offset": 495,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "吉林省通用机械(集团)有限责任公司",
+                        "start_offset": 46,
+                        "end_offset": 63,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "吉林省通用机械(集团)有限责住公司",
+                        "start_offset": 495,
+                        "end_offset": 512,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "上海银行资QR-0269上海子元汽车零部件有限公司olo2020供货商:杰斯比塑料(上海)有限公司年供应商供货价格编号0D供货商编号:01.308制表日期: 2020年3月25日部门:采购中心交货地点:嘉安公路3555号序号系统代码零件号零件名称使用车型单位本年度备注11:01.01.0027到厂单价(元/kg)EPP ARPR05325KG19.700021.01.01.0029EPP_ARPR05319KG19,700031.01.01.0030EPP ARPR05237KG一19.700041.01.01.0031EPP ARPR05228HKG19.700051.01.01.0034EPP ARPR05031KG24:700061.01.01.0032EPP ARPR05231D2JBKG19.7000银71.01.01.0042EPP ARPR05272E2SC前保吸能块KG19.7000_年一说明:训价格为不含税价,且只供供货商准备原材料用。125.有效期自 2020年01月01日至2020年12月31日止。女安4.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货。3.货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码。2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续。务-现金6.本价格单执行双方签订的《国产零部件和生产材料采购条款》之条文。上海子元汽车零部件有限公司现金杰斯比塑料上海银行资供货商代表艺金采购方代表:授权签章:上海银行资产池业务见供货商签章日期:日期:务-现金每银行资产池业令",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1:01.01.0027",
+                        "start_offset": 135,
+                        "end_offset": 147,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.01.0029",
+                        "start_offset": 180,
+                        "end_offset": 192,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.01.0030",
+                        "start_offset": 215,
+                        "end_offset": 227,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.01.0031",
+                        "start_offset": 251,
+                        "end_offset": 263,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.01.0034",
+                        "start_offset": 287,
+                        "end_offset": 299,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.01.0032",
+                        "start_offset": 322,
+                        "end_offset": 334,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.01.0042",
+                        "start_offset": 362,
+                        "end_offset": 374,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "19.7000",
+                        "start_offset": 172,
+                        "end_offset": 179,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "19,7000",
+                        "start_offset": 207,
+                        "end_offset": 214,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "19.7000",
+                        "start_offset": 243,
+                        "end_offset": 250,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "19.7000",
+                        "start_offset": 279,
+                        "end_offset": 286,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "24:7000",
+                        "start_offset": 314,
+                        "end_offset": 321,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "19.7000",
+                        "start_offset": 353,
+                        "end_offset": 360,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "19.7000",
+                        "start_offset": 398,
+                        "end_offset": 405,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 12,
+                        "end_offset": 25,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 644,
+                        "end_offset": 657,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "杰斯比塑料(上海)有限公司",
+                        "start_offset": 36,
+                        "end_offset": 49,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "杰斯比塑料上海",
+                        "start_offset": 659,
+                        "end_offset": 666,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "币种",
+                "extract_info": [
+                    {
+                        "field_value": "元",
+                        "start_offset": 152,
+                        "end_offset": 153,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "一-一上海银行资产池业务-现金QR-0269上海子元汽车零部件有限公司2020年供应商供货价格供货商:倍柔(上海)贸易有限公司供货商编号:01.346制表日期:部门:采购中心银行资产池2019年1月1日送货地点:上海嘉定序号系统代码:零件号零件名称使用车型单位下降比率2020年未税单价备注11.06.02.0026PUR环(14*9.8*6mm)Golf Sportsvan/Magotan B8L扶手件12%1.037221.06.02.0030PUR环(14.2*9.6*5.5mm)Audi Q5 NF前扶手件2%1.018731.06.02.0020BASF PUR环(35*27.4*5mm)Audi A3 W66/W77(PA)件2%2.016841.06.02.0021BASF PUR环(13.5*9.9*5mm)Audi A3 W66/W77(PA)件2%1.018051.06.02.0027BASF PUR环A-MAIN中间扶手件2%1.047861.06.02.003183G 864 283-09BASF PUR环(35*27.4*5mm)件2%2.016871.06.02.003283G 864 283-16BASF PUR环(13.5*9.9*5mm)多件2%1.0180说明:1.价格为不含税价,且只供供货商准备原材料用。3.货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码。2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续。5.有效期自_2020年1月1日至2020/年12 月 31 日止24.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货。业务-现金6.本价格单执行双方签订的《国产零部件和生产材料采购条款》之条文。上海子元汽车零部件有限公司务-现金倍柔(上海)贸易有限公司上海银行资供货商代表:,采购方代表:L始授权签章:供货商签章:日期:上海银行资产池业务日现金期:他业务-现金上海银行资产计",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.06.02.0026",
+                        "start_offset": 146,
+                        "end_offset": 158,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0030",
+                        "start_offset": 213,
+                        "end_offset": 225,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0020",
+                        "start_offset": 268,
+                        "end_offset": 280,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0021",
+                        "start_offset": 331,
+                        "end_offset": 343,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0027",
+                        "start_offset": 395,
+                        "end_offset": 407,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0031",
+                        "start_offset": 436,
+                        "end_offset": 448,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.06.02.0032",
+                        "start_offset": 494,
+                        "end_offset": 506,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "1.0372",
+                        "start_offset": 206,
+                        "end_offset": 212,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.0187",
+                        "start_offset": 261,
+                        "end_offset": 267,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "2.0168",
+                        "start_offset": 324,
+                        "end_offset": 330,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.0180",
+                        "start_offset": 388,
+                        "end_offset": 394,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.0478",
+                        "start_offset": 429,
+                        "end_offset": 435,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "2.0168",
+                        "start_offset": 487,
+                        "end_offset": 493,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.0180",
+                        "start_offset": 547,
+                        "end_offset": 553,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 22,
+                        "end_offset": 35,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 789,
+                        "end_offset": 802,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "倍柔(上海)贸易有限公司",
+                        "start_offset": 51,
+                        "end_offset": 63,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "倍柔(上海)贸易有限公司",
+                        "start_offset": 806,
+                        "end_offset": 818,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "2070上海子元汽车零部件有限公司供货商:上海普利特复合材料股份有限公司2019年供应商供货价格编号:-2-11-10-2000供货商编号:01.073部门:采购部制表日期:交货地点:上海嘉定序号系统代码零件号零件名称及规格使用车型单位单价(元)备注11.01.05.0078PA6GF30增强PA6 D122-G30 CB4943爱驰亿维门板KG21.370021.01.07.0213PP+EPDM-T20C3322T-FNS-CB4943爱驰亿维门板KG10.500031.01.08.0063PP+EPDM-T20C3322T-FNS ZH5487爱驰亿维门板KG10.500041.01.08.0064PP+EPDM-T20C3322T-FNS SY5568爱驰亿维门板KG10.5760说明:1.价格为不含税人民币,且只供供货商准备原材料用。2.供货商应按供货相关协议及相关附件中的要求供货,所交货物由采购方验收合格后办理入库手续。3.货物的包装须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码。4.本价格协议有效期自2019年01月01日起至2019年12月31日止。5.本价格协议执行双方签订的《国产零部件和生产材料采购合同》之条文。采购方(甲方):上海子元汽车零部件有限公司供应商(乙方)特复合材料股份有限公司代表:签章授权签章:日期:日期:20n2.20",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.01.05.0078",
+                        "start_offset": 126,
+                        "end_offset": 138,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.07.0213",
+                        "start_offset": 182,
+                        "end_offset": 194,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.08.0063",
+                        "start_offset": 238,
+                        "end_offset": 250,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.01.08.0064",
+                        "start_offset": 294,
+                        "end_offset": 306,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "21.3700",
+                        "start_offset": 174,
+                        "end_offset": 181,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "10.5000",
+                        "start_offset": 230,
+                        "end_offset": 237,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "10.5000",
+                        "start_offset": 286,
+                        "end_offset": 293,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "10.5760",
+                        "start_offset": 342,
+                        "end_offset": 349,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同编号",
+                "extract_info": [
+                    {
+                        "field_value": "-2-11-10-2000",
+                        "start_offset": 51,
+                        "end_offset": 64,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 4,
+                        "end_offset": 17,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "海子元汽车零部件有限公司",
+                        "start_offset": 549,
+                        "end_offset": 561,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "上海普利特复合材料股份有限公司",
+                        "start_offset": 21,
+                        "end_offset": 36,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "特复合材料股份有限公司",
+                        "start_offset": 568,
+                        "end_offset": 579,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同签署日期",
+                "extract_info": [
+                    {
+                        "field_value": "20n2.20",
+                        "start_offset": 595,
+                        "end_offset": 602,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "币种",
+                "extract_info": [
+                    {
+                        "field_value": "元",
+                        "start_offset": 121,
+                        "end_offset": 122,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "人民币,",
+                        "start_offset": 360,
+                        "end_offset": 364,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": ">972QR-0269上海子元汽车零部件有限公司供货商:吉林省通用机械(集团)有限责任公司2020年供应商供货价格2知J编号:供货商编号:04.031制表日期:2020-04-27部门:采购中心7交货地点:嘉安公路3555号序号系统代码零件号零件名称使用车型单位下降比率本年度单价备注11.02.06.00453CG 805 615拖钩B-SUV工具盒件8.940021.02.06.00415NG 805 615拖钩TiguanNF工具盒件8.0000说明:1.价格为不含税价,且只供供货商准备原材料用。2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续。3.货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码4.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货。5.有效期自2020年01月01日至2020年12月31日止。6.本价格单执行双方签订的《国产零部件和生产材料采购条款》之条文。上海子元汽车零部件有限公司吉林省通用机械(集团)有限责住公采购方代表:供货商代表授权签章:供货商签章:日期:日期:单工",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.02.06.0045",
+                        "start_offset": 143,
+                        "end_offset": 155,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.02.06.0041",
+                        "start_offset": 184,
+                        "end_offset": 196,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "8.9400",
+                        "start_offset": 177,
+                        "end_offset": 183,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "8.0000",
+                        "start_offset": 221,
+                        "end_offset": 227,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同编号",
+                "extract_info": [
+                    {
+                        "field_value": "2知J",
+                        "start_offset": 57,
+                        "end_offset": 60,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 11,
+                        "end_offset": 24,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 454,
+                        "end_offset": 467,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "吉林省通用机械(集团)有限责任公司",
+                        "start_offset": 28,
+                        "end_offset": 45,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "吉林省通用机械(集团)有限责住公",
+                        "start_offset": 467,
+                        "end_offset": 483,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "上海银行资产池业现金QR-0269上海子元汽车零部件有限公司供货商:苏州亚德林股份有限公司2020 年供应商供货价格\"银行资产供货商编号:02.291部门:采购中心上海银行资产2020年1月1日上海嘉定序号系统代码金零件号零件名称使用车型单位下降比率2020年未税单价备注11.02.02.022153B 212支撑脚(ALSi9Cu3)AUDI Q5件0%34.0721.02.02.022253B 213支撑脚臂(ALSi9Cu3)AUDI Q5件123.0331.02.02.020953A 311/A小AudiA3 PA导向臂(压铸铝)ALSI9CU3<fe>\"AUDI A3 PA件1.5%13.4941.02.02.021053A 325AudiA3 PA支撑脚含毛毡(压铸铝)ALSI9CU3<fe>AUDI A3 PA件1.5%22.2251.02.02.0158537 333卡脚(压铸铝)ALSI9CU3<fe>AUDI A3 PA件1.5%2.457说明:1.价格为不含税价,且只供供货商准备原材料用。2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续。银行3.货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码;上4.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货5.有效期自-2020年-1月1日至2020_年12月-31日止6. 本价格单执行双方签订的《国产零部件和生产材料采购条款》之条文上海子元汽车零部件有限公司苏世正德公司采购方代表:供货商代表授权签章:供货商签章日期:日期上海银行池业务-现金上海银行资产池业务-现金每银行资产池业务-现金",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.02.02.0221",
+                        "start_offset": 137,
+                        "end_offset": 149,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.02.02.0222",
+                        "start_offset": 185,
+                        "end_offset": 197,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.02.02.0209",
+                        "start_offset": 233,
+                        "end_offset": 245,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.02.02.0210",
+                        "start_offset": 306,
+                        "end_offset": 318,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.02.02.0158",
+                        "start_offset": 378,
+                        "end_offset": 390,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "34.07",
+                        "start_offset": 179,
+                        "end_offset": 184,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "23.03",
+                        "start_offset": 227,
+                        "end_offset": 232,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "13.49",
+                        "start_offset": 300,
+                        "end_offset": 305,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "22.22",
+                        "start_offset": 372,
+                        "end_offset": 377,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "2.457",
+                        "start_offset": 431,
+                        "end_offset": 436,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 17,
+                        "end_offset": 30,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 667,
+                        "end_offset": 680,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "苏州亚德林股份有限公司",
+                        "start_offset": 34,
+                        "end_offset": 45,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "苏世正德公司",
+                        "start_offset": 680,
+                        "end_offset": 686,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "上海银行资产池业务-现>912102QR-0269上海子元汽车零部件有限公司2020供货商:吉林省通用机械(集团)有限责任公司年供应商供货价格)J编号:供货商编号:04.031制表日期:2020-04-27部门:采购中心资产池业交货地点:嘉安公路3555号序号系统代码零件号零件名称使用车型单位下降比率本年度单价备注11.02.06.00453CC 805 615拖钩B-SUV工具盒件8.940021.02.06.00415NG 805 615拖钩TiguanNF工具盒件8.0000务-现金说明:1. 价格为不含税价,且只供供货商准备原材料用。2.供货商应按双方签订的供货协议及相关附件中各项条款的要求供货,所交货物由我公司验收合格后办理入库手续。上3.货物的包装必须符合便于保存、堆放、计量等基本要求,每批货物的送货单据必须注明货物的系统代码5.有效期自2020年01月01日至2020年12月31日止。4.为保证生产,供货商应储备相应的库存(储备资金自负),以备我公司追加要货。6.本价格单执行双方签订的《国产零部件和生产材料采购条款》之条文。渗银行资产汇上海子元汽车零部件有限公司吉林省通用机械(集团)有限责住公司采购方代表:授权签章:务-现金供货商代表供货商签章:每银行资产池业号-现金期:银行资产池业务-现金日期:资产池业务-现金上海银行资产池业",
+        "data": [
+            {
+                "field_key": "合同标的名称",
+                "extract_info": [
+                    {
+                        "field_value": "1.02.06.0045",
+                        "start_offset": 159,
+                        "end_offset": 171,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "1.02.06.0041",
+                        "start_offset": 200,
+                        "end_offset": 212,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同标的单价（含税）",
+                "extract_info": [
+                    {
+                        "field_value": "8.9400",
+                        "start_offset": 193,
+                        "end_offset": 199,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "8.0000",
+                        "start_offset": 237,
+                        "end_offset": 243,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同编号",
+                "extract_info": [
+                    {
+                        "field_value": ")J",
+                        "start_offset": 71,
+                        "end_offset": 73,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同买方",
+                "extract_info": [
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 25,
+                        "end_offset": 38,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "上海子元汽车零部件有限公司",
+                        "start_offset": 482,
+                        "end_offset": 495,
+                        "format_value": ""
+                    }
+                ]
+            },
+            {
+                "field_key": "合同卖方",
+                "extract_info": [
+                    {
+                        "field_value": "吉林省通用机械(集团)有限责任公司",
+                        "start_offset": 46,
+                        "end_offset": 63,
+                        "format_value": ""
+                    },
+                    {
+                        "field_value": "吉林省通用机械(集团)有限责住公司",
+                        "start_offset": 495,
+                        "end_offset": 512,
+                        "format_value": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
